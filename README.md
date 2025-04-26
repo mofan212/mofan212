@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Mofan.)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning Microservice.
-- 😄 Pronouns: He/Him
 - 🐼 I live in Chengdu, Sichuan, the hometown of pandas.
 - 📫 How to reach me: cy.mofan@foxmail.com
 - 💬 Native language is Chinese, know a little English.
